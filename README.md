@@ -2,7 +2,7 @@
 #### 17 y/o Web Designer learning HTML, CSS, & JS
 ## Skills
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,md)](https://skillicons.dev)
 ### Frameworks & Libraries
 [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 ### Tools I use
