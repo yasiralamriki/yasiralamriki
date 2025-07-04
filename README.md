@@ -4,7 +4,7 @@
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,md)](https://skillicons.dev)
 ### Frameworks & Libraries
-[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,discordjs)](https://skillicons.dev)
 ### Tools I use
 [![My Skills](https://skillicons.dev/icons?i=windows,vscode,github)](https://skillicons.dev)
 
