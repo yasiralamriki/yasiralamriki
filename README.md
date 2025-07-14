@@ -2,11 +2,11 @@
 #### 17 y/o Web Designer learning HTML, CSS, & JS
 ## Skills
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,md)](https://skillicons.dev)
+![Languages](https://skills.syvixor.com/api/icons?i=html,css3,javascript,typescript,markdown)
 ### Frameworks & Libraries
-[![My Skills](https://skillicons.dev/icons?i=nodejs,discordjs)](https://skillicons.dev)
+![Frameworks & Libraries](https://skills.syvixor.com/api/icons?i=nodejs,discordjs)
 ### Tools I use
-[![My Skills](https://skillicons.dev/icons?i=windows,vscode,github)](https://skillicons.dev)
+![Tools](https://skills.syvixor.com/api/icons?i=windows,vscode,github,npm,pnpm)
 
 ## Stats
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=yasiralamriki\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/yasiralamriki/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
