@@ -1,4 +1,4 @@
-# Yasir Al Amriki (ياسر الأمريكي)
+# Yāsir al-Amrīkī (ياسر الأمريكي)
 #### 17 y/o Web Designer learning HTML, CSS, & JS
 ## Skills
 ### Languages
