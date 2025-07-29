@@ -1,3 +1,6 @@
+<!-- Banner Image -->
+<img src="https://github.com/user-attachments/assets/46d7dfdf-80a2-44fb-84d9-058ef888753f" alt="Banner" style="width:100%; border-radius: 8px;" />
+
 # Yāsir al-Amrīkī (ياسر الأمريكي)  
 ### 17 y/o Web Designer ・ Web Developer from the United States
 
@@ -26,12 +29,11 @@
 
 ## 📌 Currently Working On
 
-- 🧠 **Salafi Bot** – a Discord bot project focused on all your needs
-- 📘 **Bookly** A self hosted book management application with **React**, **Vite**, **Tailwind CSS**, and more
-- 🧱 Learning **Express.JS** & **MongoDB**
+- 🧠 **Salafi Bot** – A custom-built Discord bot for Islamic knowledge and utilities  
+- 📘 **Bookly** – A self-hosted book tracker built with **React**, **Vite**, and **Tailwind CSS**  
+- 🧱 Learning deeper backend skills with **Express.js** and **MongoDB**
 
 ---
 
 > **“And say: My Lord, increase me in knowledge.”**  
 > _– Qurʾān, Sūrat Ṭā Hā (20:114)_
-
