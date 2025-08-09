@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 <img src="https://github.com/user-attachments/assets/46d7dfdf-80a2-44fb-84d9-058ef888753f" alt="Banner" style="width:100%; border-radius: 8px;" />
 
-# Yāsir al-Amrīkī (ياسر الأمريكي)  
+# [Yāsir al-Amrīkī (ياسر الأمريكي)](https://yasiralamriki.github.io/)  
 ### 18 y/o Web Designer & Full Stack Developer from the United States
 
 ---
