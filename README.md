@@ -12,10 +12,10 @@
 ![Languages](https://skills.syvixor.com/api/icons?i=html,css3,javascript,typescript,markdown)
 
 ### ⚙️ Frameworks & Libraries  
-![Frameworks & Libraries](https://skills.syvixor.com/api/icons?i=nodejs,discordjs,react,vite,tailwind,express,babel)
+![Frameworks & Libraries](https://skills.syvixor.com/api/icons?i=nodejs,discordjs,react,nextjs,reactrouter,vite,tailwind,express,babel)
 
-### 🧰 Tools I Use  
-![Tools](https://skills.syvixor.com/api/icons?i=windows,vscode,github,npm,pnpm)
+### 🧰 Software & Tools
+![Tools](https://skills.syvixor.com/api/icons?i=vscode,github,npm,pnpm)
 
 ---
 
