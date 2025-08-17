@@ -29,9 +29,9 @@
 
 ## 📌 Currently Working On
 
-- 🧠 **Salafi Bot** – A custom-built Discord bot for Islamic knowledge and utilities  
-- 📘 **Bookly** – A self-hosted book tracker built with **React**, **Vite**, and **Tailwind CSS**  
-- 🧱 Learning deeper backend skills with **Express.js** and **MongoDB**
+- 📘 **Bookly** – A self-hosted book tracker built with **React**, **Vite**, and **Tailwind CSS**
+- ⚙️ **Private Projects..**
+- 🧱 Always learning new skills such as Next.js, Express JS, etc
 
 ---
 
