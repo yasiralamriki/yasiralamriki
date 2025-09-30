@@ -15,7 +15,7 @@
 ![Frameworks & Libraries](https://skills.syvixor.com/api/icons?i=nodejs,discordjs,react,nextjs,reactrouter,vite,tailwind,express,babel)
 
 ### 🧰 Software & Tools
-![Tools](https://skills.syvixor.com/api/icons?i=vscode,github,npm,pnpm)
+![Tools](https://skills.syvixor.com/api/icons?i=vscode,github,npm,pnpm,supabase)
 
 ---
 
