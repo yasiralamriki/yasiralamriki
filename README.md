@@ -29,9 +29,7 @@
 
 ## 📌 Currently Working On
 
-- 📘 **SunnahReads** - The idea of Bookly on another level--To be a mix of sites like Goodreads, and PDF sites
-- 📘 **Bookly** – A self-hosted book tracker built with **React**, **Vite**, and **Tailwind CSS**
-- 🧱 Always learning new skills such as Next.js, Express JS, etc
+- 📘 **TBA**
 
 ---
 
